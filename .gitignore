@@ -1,0 +1,19 @@
+# Editor
+.vscode/
+*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# General
+node_modules/
+venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.log
+.env
+*.secret
