@@ -15,6 +15,7 @@ def get_cpu_temp_line():
 def main():
     print("Live CPU Temperature (press Ctrl+C to stop):")
     print("test git")
+    print("test git to revert please delete this")
     
     try:
         while True:
